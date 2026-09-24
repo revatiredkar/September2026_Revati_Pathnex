@@ -1,4 +1,4 @@
 an hour - Git code practice
 30 min - English practice
 2 hour - kubernetes handson 
-2 hour - CI/CD revision
+2 hour - CI/CD revisions 
