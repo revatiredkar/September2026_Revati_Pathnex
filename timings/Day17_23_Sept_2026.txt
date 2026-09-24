@@ -1,0 +1,3 @@
+3 hour - Ansible lecture and practice
+an hour - git practice
+an hour - aws practice
