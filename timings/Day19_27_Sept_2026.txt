@@ -1,0 +1,4 @@
+an hour= english practice
+2 hour - CI/CD revision
+2 hour - Kubernetes practice
+1 hour - Git practice
